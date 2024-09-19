@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @LastPlayer555
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning
--   ```markdown
     https://stepik.org/cert/2484604
     https://stepik.org/cert/2538105
-    https://stepik.org/cert/2567788
-    ```
-    https://stepik.org/cert/2567788
+    https://stepik.org/cert/2567788    
+    
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
